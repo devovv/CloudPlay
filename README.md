@@ -1,11 +1,12 @@
-# 📦 CloudPlay
+📦 CloudPlay
 
 <div align="center">
   
   ### 🛍️ Simple App Store for Windows
   
-  ![Version](https://img.shields.io/badge/version-1.0-blue)
+  ![Version](https://img.shields.io/badge/version-1.1-blue)
   ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
+  ![Downloads](https://img.shields.io/badge/downloads-35%20apps-brightgreen)
   
 </div>
 
@@ -13,19 +14,19 @@
 
 ## 📋 About
 
-**CloudPlay** is a convenient app store for Windows where you can download popular free programs with one click. No browser searches, no shady websites — everything in one place.
+**CloudPlay** is a simple app store for Windows. Download popular free programs with one click — no browser searching, no shady websites, everything in one place.
 
 ---
 
 ## ✨ Features
 
-- 🏪 **Store** — 6 categories of applications
+- 🏪 **Store** — 6 categories, 35 apps
 - 📚 **Library** — all downloaded programs in one place
-- 📥 **Downloading** — one click and the program starts downloading
-- 📊 **Progress** — download bar, percentage and speed
-- ➕ **Custom apps** — you can add any .exe file
+- 📥 **Download** — one click and it starts
+- 📊 **Progress** — download bar with speed
+- ➕ **Custom apps** — add any .exe file
 - ▶️ **Launch** — run programs directly from CloudPlay
-- 📁 **Downloads folder** — quick access to your downloaded files
+- 📁 **Downloads folder** — quick access to your files
 - 🌙 **Dark theme** — stylish interface
 
 ---
