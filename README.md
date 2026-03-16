@@ -4,7 +4,7 @@
   
   ### 🛍️ Simple App Store for Windows
   
-  ![Version](https://img.shields.io/badge/version-1.1-blue)
+  ![Version](https://img.shields.io/badge/version-1.2-blue)
   ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
   ![Downloads](https://img.shields.io/badge/downloads-35%20apps-brightgreen)
   
