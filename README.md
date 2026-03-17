@@ -6,8 +6,6 @@
   
   ![Version](https://img.shields.io/badge/version-1.3-blue)
   ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
-  ![Downloads](https://img.shields.io/badge/downloads-35%20apps-brightgreen)
-  ![Updated](https://img.shields.io/badge/updated-2024-green)
   
 </div>
 
