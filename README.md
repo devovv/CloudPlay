@@ -1,4 +1,4 @@
-# 📦 CloudPlay
+# 📦 FusionTools Store
 
 <div align="center">
   
@@ -87,7 +87,7 @@ Pin your most used apps for quick access:
 ## 📁 Downloads Folder
 
 All downloaded programs are saved to:  
-`Documents / CloudPlay Downloads`
+`Documents / FusionTools Downloads`
 
 ---
 
