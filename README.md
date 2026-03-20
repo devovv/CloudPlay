@@ -4,8 +4,9 @@
   
   ### 🛍️ Simple App Store for Windows
   
-  ![Version](https://img.shields.io/badge/version-1.3-blue)
+  ![Version](https://img.shields.io/badge/version-1.4-blue)
   ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
+  ![Downloads](https://img.shields.io/badge/downloads-35%20apps-brightgreen)
   
 </div>
 
@@ -21,7 +22,9 @@
 
 - 🏪 **Store** — 6 categories, 35+ apps
 - 📚 **Library** — all downloaded programs in one place
+- ⭐ **Favorites** — pin your favorite apps to the top
 - 🎨 **Accent colors** — choose your favorite color theme (blue, green, purple, orange, red, pink)
+- 📦 **File size** — see app size before downloading
 - 📥 **Download** — one click and it starts
 - 📊 **Progress** — download bar with speed
 - ➕ **Custom apps** — add any .exe file
@@ -34,25 +37,25 @@
 
 ## 📥 App Categories
 
-### 🔥 Popular
+### 🔥 Popular (8)
 7-Zip, Google Chrome, Firefox, Telegram, Discord, AIMP, Spotify, OBS Studio
 
-### 🎨 Graphics
+### 🎨 Graphics (4)
 GIMP, Blender, Krita, Paint.NET
 
-### 📄 Office
+### 📄 Office (4)
 LibreOffice, OnlyOffice, Notepad++, Sumatra PDF
 
-### ⚙️ System
+### ⚙️ System (6)
 CPU-Z, GPU-Z, HWMonitor, qBittorrent, Everything, CCleaner
 
-### 🌐 Internet
+### 🌐 Internet (5)
 FileZilla, Putty, Wireshark, TeamViewer, AnyDesk
 
-### 🎵 Multimedia
+### 🎵 Multimedia (4)
 Audacity, K-Lite Codec Pack, HandBrake, foobar2000
 
-### 🎮 Games
+### 🎮 Games (5)
 SuperTux, SuperTuxKart, OpenRA, Endless Sky, Luanti
 
 ---
@@ -72,6 +75,15 @@ Color applies to:
 
 ---
 
+## ⭐ Favorites
+
+Pin your most used apps for quick access:
+- Click the star button next to any app in the library
+- Favorite apps always appear at the top of the list
+- Saved automatically in `favorites.json`
+
+---
+
 ## 📁 Downloads Folder
 
 All downloaded programs are saved to:  
@@ -79,20 +91,15 @@ All downloaded programs are saved to:
 
 ---
 
-## 📦 Changelog (v1.3)
-
-🐛 **Fixes:**
-- Fixed HTTP 404 error when downloading applications
-- Updated all download links to latest versions
+## 📦 Changelog (v1.4)
 
 ✨ **New Features:**
-- Added accent color selection (6 colors available)
-- Color applies to title, buttons, tabs, progress bars
+- ⭐ **Favorites** — pin your favorite apps in the library
+- 📦 **File size** — app size is now displayed in store cards
 
 ⚡ **Improvements:**
-- Optimized performance
-- Better error handling
-- Updated all apps to latest versions
+- Increased app card size for better readability
+- Optimized library performance
 
 ---
 
@@ -105,11 +112,3 @@ If you like the program — give it a star on GitHub! ⭐
 ## 📬 Contact
 
 - GitHub: [@devovv](https://github.com/devovv)
-
----
-
-<div align="center">
-  
-  **Made with ❤️ for Windows users**
-  
-</div>
