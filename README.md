@@ -6,7 +6,6 @@
   
   ![Version](https://img.shields.io/badge/version-1.4-ff6b9d)
   ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
-  ![License](https://img.shields.io/badge/license-MIT-green)
   
 </div>
 
