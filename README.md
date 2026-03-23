@@ -33,7 +33,7 @@
 
 ## 📦 Установка
 
-1. Перейдите в [раздел релизов](https://github.com/devovv/FusionTools/releases)
+1. Перейдите в [раздел релизов](https://github.com/devovv/FusionTools-Store/releases)
 2. Скачайте `FusionToolsInstaller.exe` (версия 1.6)
 3. Запустите установщик
 
