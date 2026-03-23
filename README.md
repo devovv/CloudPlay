@@ -4,7 +4,7 @@
   
   ### Магазин приложений для Windows
   
-  ![Version](https://img.shields.io/badge/version-1.5-ff6b9d)
+  ![Version](https://img.shields.io/badge/version-1.6-ff6b9d)
   ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
   
 </div>
@@ -20,6 +20,8 @@
 ## ✨ Возможности
 
 - 🏪 6 категорий, 35+ приложений
+- 🦩 **Вкладка "От FusionTools"** — отдельный раздел с продуктами разработчика
+- 🛡️ **Проверка на вирусы** — защита перед скачиванием (VirusTotal)
 - 📚 Библиотека скачанных программ
 - ⭐ Избранное — закрепляйте любимые программы
 - 📦 Размер файла — видите объем перед скачиванием
@@ -32,7 +34,7 @@
 ## 📦 Установка
 
 1. Перейдите в [раздел релизов](https://github.com/devovv/FusionTools/releases)
-2. Скачайте `FusionToolsInstaller.exe`
+2. Скачайте `FusionToolsInstaller.exe` (версия 1.6)
 3. Запустите установщик
 
 ---
@@ -43,9 +45,3 @@
 - 50 MB свободного места
 
 ---
-
-<div align="center">
-  
-  **FusionTools Store**
-  
-</div>
