@@ -2,46 +2,47 @@
 
 <div align="center">
   
-  ### Магазин приложений для Windows
+  ### App Store for Windows
   
-  ![Version](https://img.shields.io/badge/version-1.6-ff6b9d)
+  ![Version](https://img.shields.io/badge/version-1.7-ff6b9d)
   ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
   
 </div>
 
 ---
 
-## 📋 О проекте
+## 📋 About
 
-**FusionTools Store** — магазин приложений для Windows. Скачивайте популярные программы в один клик. Без поиска в браузере, без сомнительных сайтов — всё в одном месте.
-
----
-
-## ✨ Возможности
-
-- 🏪 6 категорий, 35+ приложений
-- 🦩 **Вкладка "От FusionTools"** — отдельный раздел с продуктами разработчика
-- 🛡️ **Проверка на вирусы** — защита перед скачиванием (VirusTotal)
-- 📚 Библиотека скачанных программ
-- ⭐ Избранное — закрепляйте любимые программы
-- 📦 Размер файла — видите объем перед скачиванием
-- 🎨 Цвета акцента — 6 цветов на выбор
-- 📥 Скачивание в один клик с прогресс-баром
-- ➕ Добавление своих программ
+**FusionTools Store** — an app store for Windows. Download popular programs in one click. No searching in browser, no shady websites — everything in one place.
 
 ---
 
-## 📦 Установка
+## ✨ Features
 
-1. Перейдите в [раздел релизов](https://github.com/devovv/FusionTools-Store/releases)
-2. Скачайте `FusionToolsInstaller.exe` (версия 1.6)
-3. Запустите установщик
+- 🏪 6 categories, 35+ apps
+- 🦩 **"From FusionTools" tab** — dedicated section with developer's products (Translate, Browser, Store)
+- 📁 **Custom download folder** — choose where to save files
+- 🛡️ **Virus check** — protection before downloading (VirusTotal)
+- 📚 Library of downloaded programs
+- ⭐ Favorites — pin your favorite apps
+- 📦 File size — see the size before downloading
+- 🎨 Accent colors — 8 colors to choose from (pink, blue, green, purple, orange, red, teal, lavender)
+- 📥 One-click download with progress bar
+- ➕ Add your own programs
 
 ---
 
-## 🛠️ Системные требования
+## 📦 Installation
+
+1. Go to [releases section](https://github.com/devovv/FusionTools-Store/releases)
+2. Download `FusionToolsStoreInstaller.exe` (version 1.7)
+3. Run the installer
+
+---
+
+## 🛠️ System Requirements
 
 - Windows 10 / 11
-- 50 MB свободного места
+- 50 MB free space
 
 ---
